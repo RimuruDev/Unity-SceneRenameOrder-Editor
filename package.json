@@ -1,0 +1,25 @@
+{
+  "name": "com.rimurudev.scene-rename-order-editor",
+  "version": "1.0.0",
+  "displayName": "RimuruDev",
+  "description": "Specify the order of scenes in the hierarchy and rename in one click!",
+  "unity": "2019.1",
+  "dependencies": {},
+  "keywords": [
+    "rimurudev",
+    "rimuru-dev",
+    "abyssmoth",
+    "gamedev",
+    "unity",
+    "tool",
+    "unity-editor",
+    "utility",
+    "plugins",
+    "unity-tools"
+  ],
+  "author": {
+    "name": "RimuruDev",
+    "email": "rimuru.dev@gmail.com",
+    "url": "https://github.com/RimuruDev"
+  }
+}
