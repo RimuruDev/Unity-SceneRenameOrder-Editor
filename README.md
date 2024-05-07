@@ -23,6 +23,9 @@ Scene Rename Order Editor позволяет гейм-дизайнеру уст�
 
 <img width="260" alt="image" src="https://github.com/RimuruDev/Unity-SceneRenameOrder-Editor/assets/85500556/0e13eb50-2300-4abc-934d-02028e4185e8">
 
+<img width="442" alt="image" src="https://github.com/RimuruDev/Unity-SceneRenameOrder-Editor/assets/85500556/069d493e-398e-41f0-8082-c7b8250b9c98">
+
+
 
 # TODO:
 - Write Readme.md
